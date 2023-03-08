@@ -40,7 +40,7 @@ QualitySettings:
     asyncUploadBufferSize: 16
     asyncUploadPersistentBuffer: 1
     resolutionScalingFixedDPIFactor: 1
-    customRenderPipeline: {fileID: 11400000, guid: 374f7e499f78367429c6f28e2a42ca61,
+    customRenderPipeline: {fileID: 11400000, guid: dd4997a4c28742f408d6d5bcd848c4ea,
       type: 2}
     excludedTargetPlatforms: []
   - serializedVersion: 2
@@ -77,7 +77,7 @@ QualitySettings:
     asyncUploadBufferSize: 16
     asyncUploadPersistentBuffer: 1
     resolutionScalingFixedDPIFactor: 1
-    customRenderPipeline: {fileID: 11400000, guid: 0106d0b55d9a5494495b6f30e3bda253,
+    customRenderPipeline: {fileID: 11400000, guid: 62b7a9b3ff019a54c8d3824b9dd96b08,
       type: 2}
     excludedTargetPlatforms: []
   m_PerPlatformDefaultQuality:
